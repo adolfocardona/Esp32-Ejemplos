@@ -7,11 +7,11 @@ Aqui hay toda clase de ejemplos para programar los esp32 desde Platform IO
 
 ### Esp32 diagrama de pines
 
-![Pin Functions](docs/pinout.webp)
+![PinOut](docs/pinout.webp)
 
 ### Esp32 diagrama esquematico
 
-![Pin Functions](docs/schematic.pdf)
+![Schematics](docs/schematic.pdf)
 
 Installation instructions for using PlatformIO
 =================================================
